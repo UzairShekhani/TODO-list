@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshot.png" alt="TODO List Screenshot">
+  <img src="icon1.PNG"(https://github.com/UzairShekhani/TODO-list/blob/main/icon1.PNG)" alt="TODO List Screenshot">
 </p>
 
 ## ✨ Features
