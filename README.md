@@ -1,6 +1,6 @@
 <!-- Add your project title -->
 <p align="center">
-  <img src="[your-logo.png](https://github.com/UzairShekhani/TODO-list/blob/main/icon.png)" alt="Project Logo">
+  <img src="icon.png" alt="Project Logo">
 </p>
 
 <h1 align="center">TODO List Web App</h1>
