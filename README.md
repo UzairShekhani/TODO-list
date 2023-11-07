@@ -24,11 +24,9 @@
 ## 🚀 Demo
 
 
-## 📸 Screenshots
 
-![TODO List Screenshot 1](screenshot1.png)
 
-![TODO List Screenshot 2](screenshot2.png)
+
 
 ## 🛠️ Installation
 
